@@ -157,9 +157,8 @@ export default function Home() {
           </a>
         </div>
       </Section>
-    </main>
-  );
-}
+  
+
       {/* Footer */}
       <footer className="max-w-5xl mx-auto px-6 pb-12 text-center text-sm text-slate-500">
         © {new Date().getFullYear()} {DATA.name}. Built with 🍅 by Hugo.
