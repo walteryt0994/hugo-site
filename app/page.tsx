@@ -163,6 +163,6 @@ export default function Home() {
       <footer className="max-w-5xl mx-auto px-6 pb-12 text-center text-sm text-slate-500">
         © {new Date().getFullYear()} {DATA.name}. Built with 🍅 by Hugo.
       </footer>
-    </div>
+    </main>
   );
 }
